@@ -9,7 +9,7 @@ Great and easy way to bootstrap your Three.JS project.
 Clone the project and install dependencies:
 
 ```bash
-git clone https://github.com/aakatev/three-js-webpack.git
+git clone https://github.com/stardustdev9/mars-helicopter.git
 npm i
 ```
 
